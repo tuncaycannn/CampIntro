@@ -10,6 +10,8 @@ namespace Matematik
             dortIslem.Topla(5, 6);
 
             dortIslem.Topla(6, 9);
+
+            Console.WriteLine("Deneme");
         }
     }
 }
